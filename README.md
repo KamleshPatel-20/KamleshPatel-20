@@ -130,21 +130,21 @@ I build intelligent systems and turn complex data into clear solutions. Always l
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamleshcode&theme=github-dark&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KamleshPatel-20&theme=github-dark&hide_border=true" width="100%"/>
 
 <table>
 <tr>
 
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=kamleshcode&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KamleshPatel-20&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 </td>
 
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamleshcode&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KamleshPatel-20&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </td>
 
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamleshcode&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KamleshPatel-20&theme=tokyonight&hide_border=true" height="170"/>
 </td>
 
 </tr>
